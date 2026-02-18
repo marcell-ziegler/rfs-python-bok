@@ -57,7 +57,7 @@ Det som är viktigt att komma ihåg, är allt algoritmen är språkoberoende. Al
 
 ````{tab-item} Python
 ```{code} python
-print("Hello World")
+print("Hello, World!")
 ```
 ````
 
@@ -116,8 +116,8 @@ flowchart LR
     A([Start])
     A --> B{"`Är det morgon
     eller kväll?`"}
-    B -->|Innan lunch| C["Hälsa God dag!"]
-    B -->|Efter lunch| D["Hälsa God eftermiddag!"]
+    B -->|Innan lunch| C["Hälsa god dag!"]
+    B -->|Efter lunch| D["Hälsa god eftermiddag!"]
 :::
 
 Handlingar är fyrkanter, val är romber och start och slut är ovaler. Man kan få väldigt bra förståelse för vad ens kod faktiskt förväntas att göra om du skriver ned den såhär.
@@ -157,6 +157,8 @@ Detta bär på fördelen att du kan köra samma Python-kod överallt det finns e
 Den andra fördelen är att du kan distribuera källkoden i mänskligt läsbart format och ändå köra denna överallt. Detta kan man inte göra med kompilerad kod, då det inte är läsbart för någon (åtminstone ingen lekman).
 
 Den stora nackdelen av detta är prestanda. Koden måste tolkas live, vilket betyder att den tidsinvestering som vid kompilering sker i förväg sker vid run-time. Detta gör att tolkad kod i regel är mycket långsammare än motsvarande kompilerade kod. Det har också nackdelen att alla som skall köra din kod måste ha en programtolk för ditt språk. Det enda sätt du kan distribuera ett körbart, självstående program är om du skickar med hela tolken vilket är ganska mycket saker att skicka med. Därför brukar man ha tolken på mottagarens dator redan, dock kräver detta att grejer laddas ned.
+
+(repl-intro)=
 
 #### En REPL som en sandlåda
 

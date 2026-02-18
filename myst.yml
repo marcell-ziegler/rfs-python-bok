@@ -17,9 +17,10 @@ project:
     - title: Kapitel 1 - Grunder
       children:
         - file: grunder/01-vad_ar_programmering.md
-        - file: grunder/02-datatyper.md
-        - file: grunder/03-kontroll.md
-        - file: grunder/04-funktioner.md
+        - file: grunder/02-terminalen.md
+        - file: grunder/03-hello-world.md
+        - file: grunder/04-kontroll.md
+        - file: grunder/05-funktioner.md
     - title: Kapitel 2 - Mikrokontroller
       children:
         - file: mikrokontroller/01-vad_ar_en_mikrokontroller.md

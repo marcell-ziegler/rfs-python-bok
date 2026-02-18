@@ -1,0 +1,7 @@
+{
+    "markdownlint.run": "onSave",
+    "markdownlint.config": {
+        "no-trailing-punctuation": false,
+        "link-fragments": false
+    }
+}
