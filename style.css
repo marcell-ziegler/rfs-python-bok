@@ -1,0 +1,24 @@
+:root,
+html {
+    font-family: "Open Sans", ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+p {
+    font-family: "Open Sans Light";
+}
+
+/* .myst-top-nav {
+    background-color: #00205b !important;
+    box-shadow: 0 0 8px;
+}
+
+.myst-top-nav span:not(button.myst-search-bar span) {
+    color: white;
+}
+
+.myst-top-nav svg:not(button.myst-search-bar svg) {
+    color: white;
+    stroke: white;
+    fill: white;
+    outline: white;
+} */

@@ -10,7 +10,6 @@ project:
   authors:
     - Marcell Ziegler
   # github:
-  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 
 
   toc:
@@ -32,6 +31,7 @@ project:
 
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+  options:
+    style: "./style.css"
+    favicon: ./favicon.ico
+    logo: ./kopia-av-rymdforskarskolan-transparent.png
