@@ -24,13 +24,13 @@ Notera att **Kapitel 1** är obligatorisk läsning inför RFS!
 
 ## Hur du använder den här boken
 
-Detta är en interaktiv lärobok. Det betyder att jag ibland kommer att visa kod för er. Det ser ut såhär:
+Detta är en interaktiv lärobok. Det betyder att vi exempelvis kan ha länkar till [gulliga katter](https://en.wikipedia.org/wiki/Cat), eller beskriva förkortningar som {abbr}`AU (Astronomisk Ungdom)`, så att ni kan musa över dem och se vad länkarna och beskrivningarna innehåller. Allting med en streckad underkant går att musa över, allt med solid underkant är ändå en länk men måste följas för att läsas. Jag kommer även ibland att visa kod för er. Ibland kommer den koden vara menad att köras. Det ser ut såhär:
 
 ```{code-cell} ipython
 print("Hello, World!")
 ```
 
-Dessa kommer alltid att vara "för-körda" för er, och resultatet visas i grått under. Om ni vill experimentera med koden själv[^run-in-page], kopiera in koden i en fil på er dator och kör den med ert lokala Python. Ibland kommer jag t.o.m. uppmana er att göra detta. Hur ni gör det beskrivs i Kapitel 1.
+Dessa kommer alltid att vara "för-körda" för er, och resultatet visas i grått under. Om ni vill experimentera med koden själv[^run-in-page], kopiera in koden i en fil på er dator och kör den med ert lokala Python. Ibland kommer jag t.o.m. uppmana er att göra detta. Hur ni gör det beskrivs i Kapitel 1. Om koden inte var tänkt att köras, kommer inget resultat att visas.
 
 Ibland kommer det också finnas lite mer info om ett visst ämne, som inte är strikt nödvändigt för att förstå allt, men som kan vara kul att vet ändå. Då kommer det finnas en dropdown som nedan, som ni kan klicka på och läsa:
 

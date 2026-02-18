@@ -7,8 +7,6 @@ project:
   keywords:
     - programmering
     - python
-  authors:
-    - Marcell Ziegler
   # github:
 
 
@@ -35,3 +33,4 @@ site:
     style: "./style.css"
     favicon: ./favicon.ico
     logo: ./kopia-av-rymdforskarskolan-transparent.png
+    hide_outline: false
